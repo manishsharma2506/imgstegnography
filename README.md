@@ -1,4 +1,6 @@
 # imgstegnography
+#how to run
+
 
 ```
 pip install pillow
