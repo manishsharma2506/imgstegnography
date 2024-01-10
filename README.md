@@ -1,7 +1,7 @@
 # imgstegnography
 
-....
-pip install pillow 
-....
+```
+pip install pillow
 
+```
 ImgStegno_GUI_DataFlair.py
