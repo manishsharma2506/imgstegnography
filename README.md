@@ -1,5 +1,5 @@
 # imgstegnography
-#how to run
+# How to run
 
 
 ```
